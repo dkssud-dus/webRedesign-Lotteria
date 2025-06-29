@@ -187,7 +187,7 @@
 </br>
 </br>
 
-### 3.1.2. Steady seller menu
+### 3.1.6. Steady seller menu
 ![5](https://github.com/user-attachments/assets/8318a7a0-6e2a-46f8-83c5-ee19c951e2ad)
 
 <br/>
@@ -204,7 +204,7 @@
 </br>
 </br>
 
-### 3.1.2. Banner
+### 3.1.7. Banner
 ![6](https://github.com/user-attachments/assets/1ba89cb5-f1cc-4497-a32d-4c3de4e533aa)
 
 <br/>
@@ -220,7 +220,7 @@
 </br>
 </br>
 
-### 3.1.2. Shorts
+### 3.1.8. Shorts
 ![7](https://github.com/user-attachments/assets/49ed8ab9-7c16-4bc4-982e-f8bb9556187e)
 
 <br/>
@@ -236,7 +236,7 @@
 </br>
 </br>
 
-### 3.1.2. Map 
+### 3.1.9. Map 
 ![8](https://github.com/user-attachments/assets/efbea3fd-903b-4d68-b3a4-0029e11ee48f)
 
 <br/>
@@ -252,7 +252,7 @@
 </br>
 </br>
 
-### 3.1.2. Footer
+### 3.1.10. Footer
 ![9](https://github.com/user-attachments/assets/baf53532-1dcd-4993-8a66-99d323e3cf00)
 
 <br/>
@@ -268,7 +268,7 @@
 </br>
 </br>
 
-### 3.1.2. Login
+### 3.1.11. Login
 ![10](https://github.com/user-attachments/assets/e370847a-e217-4da2-b669-66733f6f6e7f)
 
 <br/>
@@ -284,7 +284,7 @@
 </br>
 </br>
 
-### 3.1.2. Cart
+### 3.1.12. Cart
 ![11](https://github.com/user-attachments/assets/66fe5772-cdf3-47ac-b1f6-c6a4841a9458)
 
 <br/>
