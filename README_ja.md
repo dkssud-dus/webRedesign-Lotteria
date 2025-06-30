@@ -3,7 +3,7 @@
 [README](https://github.com/dkssud-dus/webRedesign-Lotteria/blob/main/README.md) | [README_ja](https://github.com/dkssud-dus/webRedesign-Lotteria/blob/main/README_ja.md)
 
 `#RedesignProject` `#Website` `#TeamProject` `#4PeopleTeam` `#Responsive` `#Mobile`
-# **Website Redesign Project:**
+# **Website Redesign Project Details:**
 ### ロッテリア Lotteria
 
 <br/>
