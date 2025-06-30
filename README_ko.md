@@ -3,7 +3,7 @@
 [README](https://github.com/dkssud-dus/webRedesign-Lotteria/blob/main/README.md) | [README_ko](https://github.com/dkssud-dus/webRedesign-Lotteria/blob/main/README_ko.md)
 
 `#RedesignProject` `#Website` `#TeamProject` `#4PeopleTeam` `#Responsive` `#Mobile`
-# **Website Redesign Project:**
+# **Website Redesign Project Details:**
 ### 롯데리아 Lotteria
 
 <br/>
