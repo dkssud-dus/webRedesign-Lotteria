@@ -1,3 +1,4 @@
+
 ---
 [README](https://github.com/dkssud-dus/webRedesign-Lotteria/blob/main/README.md) | [README_en](https://github.com/dkssud-dus/webRedesign-Lotteria/blob/main/README_en.md)
 
