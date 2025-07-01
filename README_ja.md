@@ -1,6 +1,6 @@
 
 ---
-[README](https://github.com/dkssud-dus/webRedesign-Lotteria/blob/main/README.md) | [README_ja](https://github.com/dkssud-dus/webRedesign-Lotteria/blob/main/README_ja.md)
+[README](https://github.com/young0234/webRedesign-Lotteria/blob/main/README.md) | [README_ja](https://github.com/young0234/webRedesign-Lotteria/blob/main/README_ja.md)
 
 `#RedesignProject` `#Website` `#TeamProject` `#4PeopleTeam` `#Responsive` `#Mobile`
 # **Website Redesign Project Details:**
@@ -99,7 +99,7 @@
 
 ## 3. ページ別機能
 
-### 3.1. [Main Page](https://dkssud-dus.github.io/webRedesign-Lotteria/index.html)
+### 3.1. [Main Page](https://young0234.github.io/webRedesign-Lotteria/index.html)
 
 ---
 ### 3.1.1. Side Blank Area
@@ -306,7 +306,7 @@
 
 ---
 
-### 3.2.1. [Brand](https://dkssud-dus.github.io/webRedesign-Lotteria/pages/brand.html)
+### 3.2.1. [Brand](https://young0234.github.io/webRedesign-Lotteria/pages/brand.html)
 ![12](https://github.com/user-attachments/assets/36d77ca9-4f1a-40a6-aa83-2493afff1a0d)
 
 <br/>
@@ -325,7 +325,7 @@
 </br>
 </br>
 
-### 3.2.2. [Menu List](https://dkssud-dus.github.io/webRedesign-Lotteria/pages/menu-list.html)
+### 3.2.2. [Menu List](https://young0234.github.io/webRedesign-Lotteria/pages/menu-list.html)
 ![13](https://github.com/user-attachments/assets/76e9cc0b-3ae9-43e6-9887-184ec9d1f312)
 
 <br/>
@@ -343,7 +343,7 @@
 </br>
 </br>
 
-### 3.2.3. メニュー詳細 ([Burger](https://dkssud-dus.github.io/webRedesign-Lotteria/pages/menu-burger01.html) / [Dessert](https://dkssud-dus.github.io/webRedesign-Lotteria/pages/menu-dessert01.html) / [Chicken](https://dkssud-dus.github.io/webRedesign-Lotteria/pages/menu-chicken01.html) / [Drink](https://dkssud-dus.github.io/webRedesign-Lotteria/pages/menu-drink01.html) / [Iceshot](https://dkssud-dus.github.io/webRedesign-Lotteria/pages/menu-iceShot01.html))
+### 3.2.3. メニュー詳細 ([Burger](https://young0234.github.io/webRedesign-Lotteria/pages/menu-burger01.html) / [Dessert](https://young0234.github.io/webRedesign-Lotteria/pages/menu-dessert01.html) / [Chicken](https://young0234.github.io/webRedesign-Lotteria/pages/menu-chicken01.html) / [Drink](https://young0234.github.io/webRedesign-Lotteria/pages/menu-drink01.html) / [Iceshot](https://young0234.github.io/webRedesign-Lotteria/pages/menu-iceShot01.html))
 ![14](https://github.com/user-attachments/assets/dd8a36f4-ecdd-4c96-b268-422cc1a52c82)
 
 <br/>
