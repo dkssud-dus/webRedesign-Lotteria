@@ -1,6 +1,6 @@
 
 ---
-[README](https://github.com/dkssud-dus/webRedesign-Lotteria/blob/main/README.md) | [README_en](https://github.com/dkssud-dus/webRedesign-Lotteria/blob/main/README_en.md)
+[README](https://github.com/young0234/webRedesign-Lotteria/blob/main/README.md) | [README_en](https://github.com/young0234/webRedesign-Lotteria/blob/main/README_en.md)
 
 `#RedesignProject` `#Website` `#TeamProject` `#4PeopleTeam` `#Responsive` `#Mobile`
 # **Website Redesign Project Details:**
